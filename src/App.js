@@ -4,7 +4,7 @@ import BoasVindas from './components/BoasVindas'
 function App() {
   return (
     <div className="App">
-      <h1>Salve </h1>
+      <h1> Preciso da sua ajuda </h1>
       <BoasVindas />
     </div>
   );

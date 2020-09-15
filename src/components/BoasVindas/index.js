@@ -6,8 +6,8 @@ import './boasvindas.css'
 
     return (
         <div className='bvindas'>
-            <h1> Seja Bem Vindo. </h1>
-            <h2> Esse é o meu site feito usando React JS </h2>
+            <h1> Irmão to com um problema </h1>
+            <h2> Me empresta mil reais???? </h2>
             <Mensagem />
         </div>
     );
